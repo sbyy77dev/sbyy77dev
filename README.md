@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/sbyy77dev/{github username}/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/sbyy77dev/sbyy77dev/blob/output/github-contribution-grid-snake.svg"/>
 
 <!--
 **sbyy77dev/sbyy77dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
