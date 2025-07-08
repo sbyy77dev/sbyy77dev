@@ -2,9 +2,6 @@
 
 <img src="https://github.com/sbyy77dev/sbyy77dev/blob/output/github-contribution-grid-snake.svg"/>
 
-![Soobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbyy77dev&show_icons=true&theme=radical)
-
-
 <!--타이틀 부분-->
 <div align="center">
   <img src="https://github.com/sbyy77dev/sbyy77dev/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
@@ -63,8 +60,16 @@
 </div>
 
 ### 🚩 Algorithm Ranking
-[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=sbyy77)](https://solved.ac/profile/sbyy77)
 
+<div align="center" style="display: flex; gap: 16px;">
+  <a href="https://solved.ac/profile/sbyy77">
+    <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sbyy77" alt="Algorithm Ranking" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sbyy77dev&show_icons=true&theme=radical" alt="Soobin's GitHub stats" />
+</div>
+
+
+<!-- 주석-->
 <!--
 [![Hits](https://hits.sh/github.com/sbyy77dev.svg)](https://hits.sh/github.com/sbyy77dev/)
 -->
