@@ -76,6 +76,8 @@
   </a>
 </div>
 
+### 🚩 Algorithm Ranking
+[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=sbyy77)](https://solved.ac/profile/sbyy77)
 
 <!--
 **sbyy77dev/sbyy77dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
