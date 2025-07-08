@@ -2,8 +2,6 @@
 
 <img src="https://github.com/sbyy77dev/sbyy77dev/blob/output/github-contribution-grid-snake.svg"/>
 
-[![Hits](https://hits.sh/github.com/sbyy77dev.svg)](https://hits.sh/github.com/sbyy77dev/)
-
 ![Soobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbyy77dev&show_icons=true&theme=radical)
 
 
@@ -81,6 +79,10 @@
 
 ### 🚩 Algorithm Ranking
 [![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=sbyy77)](https://solved.ac/profile/sbyy77)
+
+<!--
+[![Hits](https://hits.sh/github.com/sbyy77dev.svg)](https://hits.sh/github.com/sbyy77dev/)
+-->
 
 <!--
 **sbyy77dev/sbyy77dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
