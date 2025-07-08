@@ -60,17 +60,17 @@
 </div>
 
 <div align="center" style="display: flex; gap: 24px;">
-  <!-- Algorithm Ranking + solved.ac 박스 -->
-  <div>
-    <a href="https://solved.ac/profile/sbyy77">
-      <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sbyy77" alt="Algorithm Ranking" />
-    </a>
-  </div>
-  <!-- GitHub Stats 박스 -->
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=sbyy77dev&show_icons=true&theme=radical" alt="Soobin's GitHub stats" />
-  </div>
+<div>
+<h3 align="center"> 🚩 Algorithm Ranking </h3>
+<a href="https://solved.ac/profile/sbyy77">
+<img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sbyy77" alt="Algorithm Ranking" />
+</a>
 </div>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=sbyy77dev&show_icons=true&theme=radical" alt="Soobin's GitHub stats" />
+</div>
+</div>
+
 
 
 
