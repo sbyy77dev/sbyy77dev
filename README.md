@@ -4,7 +4,9 @@
 
 ![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbyy77dev&edge_flat=false&title=hits)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Soobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbyy77dev&show_icons=true&theme=radical)
+
+
 <!--타이틀 부분-->
 <div align="center">
   <img src="https://github.com/sbyy77dev/sbyy77dev/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
