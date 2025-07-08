@@ -2,7 +2,7 @@
 
 <img src="https://github.com/sbyy77dev/sbyy77dev/blob/output/github-contribution-grid-snake.svg"/>
 
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsbyy77dev&edge_flat=false&title=hits)
+[![Hits](https://hits.sh/github.com/sbyy77dev.svg)](https://hits.sh/github.com/sbyy77dev/)
 
 ![Soobin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbyy77dev&show_icons=true&theme=radical)
 
