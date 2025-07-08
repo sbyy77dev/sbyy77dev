@@ -66,6 +66,7 @@
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=sbyy77" alt="Algorithm Ranking" />
 </a>
 </div>
+<br/>
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=sbyy77dev&show_icons=true&theme=radical" alt="Soobin's GitHub stats" />
 </div>
