@@ -59,7 +59,7 @@
   </a>
 </div>
 
-<table>
+<table border="1" bordercolor="white">
   <tr>
     <td align="center" valign="top">
       <h3 align="center">🚩 Algorithm Ranking</h3>
@@ -69,10 +69,12 @@
     </td>
     <td width="24"></td>
     <td align="center" valign="top">
+      <h3 align="center"> github stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=sbyy77dev&show_icons=true&theme=radical" alt="Soobin's GitHub stats" />
     </td>
   </tr>
 </table>
+
 
 
 
