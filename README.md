@@ -2,6 +2,13 @@
 <!--snake-->
 <img src="https://github.com/sbyy77dev/sbyy77dev/blob/output/github-contribution-grid-snake.svg"/>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sbyy77dev&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/sbyy77dev"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
